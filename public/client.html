@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>KasouClient</title>
+    <link rel="stylesheet" href="client.css" type="text/csss">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="client.js"></script>
+  </head>
+  <body>
+    <div class="checkbox_wrapper">
+      <input type="checkbox" name='light' onclick="onLightClick();"/>
+      <label></label>
+    </div>
+    <div class="checkbox_wrapper">
+      <input type="checkbox" name='light' onclick="onLightClick();"/>
+      <label></label>
+    </div>
+  </body>
+  <script>
+    var onLightClick = function(sender) {
+      var score = getScore();
+      var name  = getName();
+      vote(name, score);
+    }
+  </script>
+</html>

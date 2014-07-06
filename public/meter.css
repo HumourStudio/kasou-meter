@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+div.right-column {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+}
+
+div.center-column {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+#result-image {
+  height: 100%;
+}
+
+div.center-pop {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.33);
+  color: white;
+  text-align: center;
+  padding: 44px 0px;
+}
+
+p.title {
+  font-size: 192px;
+  margin: 0;
+}
+
+p.subtitle {
+  font-size: 32px;
+  margin: 0;
+}
+
+div.meter-box {
+  width: 200px;
+  height: 5%;
+  overflow: hidden;
+
+  color: white;
+
+  text-align: center;
+  font-family: courier;
+  font-size: 22px;
+}
+
+.meter-box-fill {
+  height: 100%;
+  margin: 1px;
+}
+
+div.low-score {
+  background-color: gold;
+}
+
+div.mid-score {
+  background-color: orange;
+}
+
+div.high-score {
+  background-color: red;
+}
+
+div.off-score {
+  background-color: rgba(0, 0, 0, 0.16);
+}
+
+input#reset-button {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  width: 88px;
+}

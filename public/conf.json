@@ -1,0 +1,11 @@
+{
+  "score":{
+    "perfect":20,
+    "great":16,
+    "good":10
+  },
+  "title":"LGTM",
+  "message":"Looks Good To Me",
+  "image-terms":["LGTM", "gif"],
+  "music":"sounds/music_success.mp3"
+}
