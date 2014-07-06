@@ -1,7 +1,14 @@
 Kasou Meter
 ===========
 
-Kasou Meter は、あの国民的テレビ番組をモチーフにした自己紹介支援アプリです。
+Kasou Meter は、あの国民的テレビ番組をモチーフにした発表会支援アプリです。
+発表にリアルタイムに点数をつけて遊ぶことができます。
+
+メーター画面:
+![meter.png](https://github.com/HumourStudio/kasou-meter/blob/master/readme/meter.png "meter.png")
+
+審査員画面:
+![client.png](https://github.com/HumourStudio/kasou-client/blob/master/readme/client.png "client.png")
 
 
 How To Use
