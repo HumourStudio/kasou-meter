@@ -9,6 +9,12 @@ Kasou Meter は、あの国民的テレビ番組をモチーフにした発表�
 ![client.png](https://raw.github.com/wiki/HumourStudio/kasou-meter/images/client.png "client.png")
 
 
+Demo
+----
+得点ページ：[kasou-meter.herokuapp.com/meter](http://kasou-meter.herokuapp.com/meter)
+
+審査員ページ：[kasou-meter.herokuapp.com](http://kasou-meter.herokuapp.com/)
+
 How To Use
 ----------
 1. アプリをサーバーにデプロイします
