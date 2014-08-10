@@ -8,6 +8,10 @@ Kasou Meter は、あの国民的テレビ番組をモチーフにした発表�
 
 ![client.png](https://raw.github.com/wiki/HumourStudio/kasou-meter/images/client.png "client.png")
 
+Quick Start
+-----------
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 Demo
 ----
